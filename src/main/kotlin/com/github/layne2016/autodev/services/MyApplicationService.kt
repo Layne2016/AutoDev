@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.layne2016.autodev.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.layne2016.autodev.MyBundle
 
 class MyApplicationService {
 

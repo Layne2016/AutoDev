@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.layne2016.autodev.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.layne2016.autodev.MyBundle
 
 class MyProjectService(project: Project) {
 

@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.layne2016.autodev
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
